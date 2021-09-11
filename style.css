@@ -54,9 +54,7 @@ ul .logo {
   font-weight: 700;
   font-size: 1.5rem;
   margin-right: auto;
-  background-image: var(--primary-gradient);
-  background-clip: text;
-  color: transparent;
+  color: #f2502d;
 }
 
 ul .nav-item {
@@ -122,9 +120,7 @@ section.card {
 .container h1 {
   line-height: 1em;
   font-size: 3rem;
-  background-image: var(--secondary-gradient);
-  background-clip: text;
-  color: transparent;
+  color: #3287ff;
 }
 
 .container p {
@@ -136,9 +132,7 @@ section.card {
 
 .container p a {
   text-decoration: none;
-  background-image: var(--secondary-gradient);
-  background-clip: text;
-  color: transparent;
+  color: #3287ff;
 }
 
 section.video {
